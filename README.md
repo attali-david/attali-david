@@ -47,7 +47,7 @@ See [my website](https://davidattali.netlify.app/) for more information!
       <h3 align="center">Sci-Fi Mix"</h3>
         <br />
       <a target="_blank" href="https://scifimix.netlify.app/">
-            <img src="images/mix.jpeg" width="100%"  alt="Sci-Fi Mix"/>
+            <img src="images/mix.jpg" width="100%"  alt="Sci-Fi Mix"/>
         </a>
         <br />
         <p align="center">

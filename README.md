@@ -29,7 +29,7 @@ See [my website](https://davidattali.netlify.app/) for more information!
       <h3 align="center">Jot</h3>
         <br />
         <a target="_blank" href="https://attali-david.github.io/jot">
-            <img src="images/jot" width="100%" alt="Journaling App"/>
+            <img src="images/jot.png" width="100%" alt="Journaling App"/>
         </a>
         <br />
         <p align="center">
@@ -47,7 +47,7 @@ See [my website](https://davidattali.netlify.app/) for more information!
       <h3 align="center">Sci-Fi Mix"</h3>
         <br />
       <a target="_blank" href="https://scifimix.netlify.app/">
-            <img src="images/mix" width="100%"  alt="Sci-Fi Mix"/>
+            <img src="images/mix.jpeg" width="100%"  alt="Sci-Fi Mix"/>
         </a>
         <br />
         <p align="center">
@@ -80,24 +80,6 @@ See [my website](https://davidattali.netlify.app/) for more information!
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Shelf</h3>
-        <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/portfolio" width="100%" alt="Matching Cards"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 600 different characters, test your memory by spotting the next Rick and Morty character.</p>
     </td>
   </tr>
 </table>

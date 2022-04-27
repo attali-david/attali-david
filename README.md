@@ -68,7 +68,7 @@ See [my website](https://davidattali.netlify.app/) for more information!
       <h3 align="center">davidattali.com</h3>
       <br />
         <a target="_blank" href="https://davidattali.netlify.app/">
-          <img src="images/portfolio" width="100%" alt="Portfolio"/>
+          <img src="images/portfolio.png" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -85,7 +85,7 @@ See [my website](https://davidattali.netlify.app/) for more information!
       <h3 align="center">Shelf</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+          <img src="images/portfolio" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">

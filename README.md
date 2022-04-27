@@ -29,7 +29,7 @@ See [my website](https://davidattali.netlify.app/) for more information!
       <h3 align="center">Jot</h3>
         <br />
         <a target="_blank" href="https://attali-david.github.io/jot">
-            <img src="images/gif1.gif" width="100%" alt="Journaling App"/>
+            <img src="images/jot" width="100%" alt="Journaling App"/>
         </a>
         <br />
         <p align="center">
@@ -47,7 +47,7 @@ See [my website](https://davidattali.netlify.app/) for more information!
       <h3 align="center">Sci-Fi Mix"</h3>
         <br />
       <a target="_blank" href="https://scifimix.netlify.app/">
-            <img src="images/gif2.gif" width="100%"  alt="Sci-Fi Mix"/>
+            <img src="images/mix" width="100%"  alt="Sci-Fi Mix"/>
         </a>
         <br />
         <p align="center">
@@ -68,7 +68,7 @@ See [my website](https://davidattali.netlify.app/) for more information!
       <h3 align="center">davidattali.com</h3>
       <br />
         <a target="_blank" href="https://davidattali.netlify.app/">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="images/portfolio" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -114,17 +114,10 @@ See [my website](https://davidattali.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=8fbc56&style=plastic&logo=solidity"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=cdf998&style=plastic&logo=selenium"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/>
     <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=bbb111&style=plastic&logo=webpack"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
 </p>
@@ -139,19 +132,16 @@ See [my website](https://davidattali.netlify.app/) for more information!
 
 
 <p align="center">
-  <a href="https://shawncharles.com" target="_blank">
+  <a href="https://davidattali.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/david-attali-2b2305b9/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/twitter" target="_blank">
+  <a href="https://twitter.com/dattali2020" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/angellist" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="https://shawncharles.com/resume" target="_blank">
+  <a href="https://docs.google.com/document/d/1JLVhwPDaX4KROvIkwIo5e_eLgIWGNDHK/edit?usp=sharing&ouid=118412780688544188304&rtpof=true&sd=true" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>

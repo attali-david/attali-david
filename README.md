@@ -59,7 +59,7 @@ See [my website](https://davidattali.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Flask and Jinja</strong>A social media app designed with educators to enable students to build identities as readers and grow their digital collaboration and discussion skills.</p>
+        <p><strong>Flask, Bootstrap, PostgreSQL, and Jinja</strong> - A social media app designed with educators to enable students to build identities as readers and grow their digital collaboration and discussion skills.</p>
     </td>
   </tr>
   

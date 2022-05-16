@@ -81,24 +81,6 @@ See [my website](https://davidattali.netlify.app/) for more information!
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Sci-Fi Mix</h3>
-        <br />
-      <a target="_blank" href="https://scifimix.netlify.app/">
-            <img src="images/mix.jpg" width="100%"  alt="Sci-Fi Mix"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/attali-david/memory-card" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://scifimix.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>React & CSS3</strong>With over 600 different characters, test your memory by spotting the next Rick and Morty character.</p>
-    </td>
   </tr>
 </table>
 

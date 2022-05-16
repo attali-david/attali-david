@@ -25,7 +25,6 @@ See [my website](https://davidattali.netlify.app/) for more information!
 <table bordercolor="#66b2b2">
   
   <tr>
-    
     <td width="50%" valign="top">
       <h3 align="center">Jot</h3>
         <br />
@@ -44,7 +43,6 @@ See [my website](https://davidattali.netlify.app/) for more information!
       </p>
         <p><strong>React, Bootstrap, CoreUI, & Firebase</strong> - Jot makes reading with purpose a breeze! Jot was designed with English teachers to help students ideate and facilitate meaning-making. </p>
     </td>
-    
     <td width="50%" valign="top">
       <h3 align="center">Blurb</h3>
         <br />

@@ -16,7 +16,6 @@
   </a>
 </p>
 
-I’m a software engineer apprentice @100Devs with a background in research and education.
 
 See [my website](https://davidattali.netlify.app/) for more information!
 

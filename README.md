@@ -119,7 +119,4 @@ See [my website](https://davidattali.netlify.app/) for more information!
   <a href="https://twitter.com/dattali2020" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="./attali-resume" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
 </p>

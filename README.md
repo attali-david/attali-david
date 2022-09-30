@@ -19,6 +19,42 @@ See [my website](https://davidattali.netlify.app/) for more information!
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">davidattali.com</h3>
+      <br />
+        <a target="_blank" href="https://davidattali.netlify.app/">
+          <img src="images/portfolio.png" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/attali-david/david-attali-website" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://davidattali.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Weather App</h3>
+      <br />
+        <a target="_blank" href="https://davidattali.netlify.app/">
+          <img src="images/weather.png" width="100%" alt="Weather App"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/attali-david/cnycn_technical_interview" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://attali-cnycn.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Typescript, Next.js, Tailwind CSS</strong> - Responsive weather app with map.</p>
+    </td>
+  </tr>
   
   <tr>
     <td width="50%" valign="top">
@@ -59,25 +95,7 @@ See [my website](https://davidattali.netlify.app/) for more information!
     </td>
   </tr>
   
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">davidattali.com</h3>
-      <br />
-        <a target="_blank" href="https://davidattali.netlify.app/">
-          <img src="images/portfolio.png" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/attali-david/david-attali-website" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://davidattali.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
-  </tr>
+
 </table>
 
 
